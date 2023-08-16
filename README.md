@@ -29,3 +29,8 @@ A video tutorial on how to use Parakeet Lip sync is coming soon.
 ## Screenshot
 
 ![Screentshot](resources/screenshot.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhnhparitosh%2FParakeetLipSync.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhnhparitosh%2FParakeetLipSync?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhnhparitosh%2FParakeetLipSync.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhnhparitosh%2FParakeetLipSync?ref=badge_large)
